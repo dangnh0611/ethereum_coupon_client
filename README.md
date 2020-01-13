@@ -1,2 +1,2 @@
 # ethereum_coupon_client
-ethereum smart contract Anddroid client
+ethereum smart contract Android client
