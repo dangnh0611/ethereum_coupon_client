@@ -1,6 +1,6 @@
 # ethereum_coupon_client
-Ethereum smart contract Android client for coupons/notes exchange.
-This repository is a part of my project: **Simple coupons/notes dispatching protocol on Ethereum blockchain platform**  
+Ethereum smart contract Android client for coupons/notes exchange.  
+This repository is a part of my project: **Simple coupons/notes dispatching protocol on Ethereum blockchain platform**   
 Source code of smart contract in Vyper is available at my repo [dangnh0611/coupon_on_blockchain](https://github.com/dangnh0611/coupon_on_blockchain). 
 
 ## About this project
